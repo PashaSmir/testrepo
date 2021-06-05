@@ -1,2 +1,2 @@
 print("Nothing else")
-// comment
+# comment
